@@ -8,7 +8,7 @@ const myName = "Rodrigo Rocha"
   <img  width="49.75%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=to-codando&theme=tokyonight&layout=compact&show=javascript,html)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
-<img width="100%" style="margin:0;padding:0" src="![Profile](https://user-images.githubusercontent.com/94268593/160225448-84bd45c8-8985-4e42-8b35-1dc08a277168.png)"/>
+<img width="100%" style="margin:0;padding:0" src="https://user-images.githubusercontent.com/94268593/160225448-84bd45c8-8985-4e42-8b35-1dc08a277168.png"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

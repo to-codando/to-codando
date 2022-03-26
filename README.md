@@ -4,6 +4,8 @@
 const myName = "Rodrigo Rocha"
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display:flex;width:100%">
   
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=to-codando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

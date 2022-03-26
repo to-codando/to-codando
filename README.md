@@ -8,7 +8,7 @@ const myName = "Rodrigo Rocha"
   
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=to-codando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img  width="49.75%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img  width="49.75%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=to-codando&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -18,7 +18,14 @@ const myName = "Rodrigo Rocha"
   
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />   
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />   
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />
+          
   
 </div>
 

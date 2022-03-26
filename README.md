@@ -12,8 +12,7 @@ const myName = "Rodrigo Rocha"
 </div>
 
 
-![TECHNOLOGIES I ALMOST ALWAYS USE](https://user-images.githubusercontent.com/94268593/160227040-92cf7ea2-88be-4e70-bd74-b9eff07bcf76.png)
-
+![TECHNOLOGIES I ALMOST ALWAYS USE](https://user-images.githubusercontent.com/94268593/160227173-e04db237-4186-4a48-a5ca-db7e36096d26.png)
 
 <div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
   <img width="100%" style="margin:0;padding:0" src="https://github.com/to-codando/to-codando/blob/output/github-contribution-grid-snake.svg"/>

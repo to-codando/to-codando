@@ -3,8 +3,9 @@
 
 
 <a href="https://bit.ly/3NlbBGN" target="_blank">
-![PROFILE INFORMANTION](https://user-images.githubusercontent.com/94268593/160229035-7a7e156c-400c-4c28-a209-43ecc6660fec.png)
+![Profile information](https://user-images.githubusercontent.com/94268593/160229369-ca665d7f-68e6-4ee1-b432-d6c174bf254f.png)
 </a>
+
 
 
 

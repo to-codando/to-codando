@@ -1,4 +1,5 @@
-<img width="100%" style="margin:0;padding:0" src="https://user-images.githubusercontent.com/94268593/160225448-84bd45c8-8985-4e42-8b35-1dc08a277168.png"/>
+![Frame 8 (1)](https://user-images.githubusercontent.com/94268593/160225995-d53a9249-051b-4253-bce6-e1770973b750.png)
+
 
 ```javascript
 const myName = "Rodrigo Rocha"

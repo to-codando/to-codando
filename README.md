@@ -3,12 +3,13 @@ const myName = "Rodrigo Rocha"
 ```
 
 <div style="display:flex;width:100%">
-  
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=to-codando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <img  width="49.75%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=to-codando&theme=tokyonight&layout=compact&show=javascript,html)](https://github.com/anuraghazra/github-readme-stats"/>
-
 </div>
+
+<img width="100%" style="margin:0;padding:0" src="![Profile](https://user-images.githubusercontent.com/94268593/160225448-84bd45c8-8985-4e42-8b35-1dc08a277168.png)"/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,7 +45,4 @@ const myName = "Rodrigo Rocha"
   <img width="100%" style="margin:0;padding:0" src="https://github.com/to-codando/to-codando/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
-<div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
-  <img width="100%" style="margin:0;padding:0" src="![Profile](https://user-images.githubusercontent.com/94268593/160225448-84bd45c8-8985-4e42-8b35-1dc08a277168.png)"/>
-</div>
 

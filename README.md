@@ -45,6 +45,6 @@ const myName = "Rodrigo Rocha"
 </div>
 
 <div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
-  <img width="100%" style="margin:0;padding:0" src="https://drive.google.com/file/d/199lkeSuB971Uxt9c7xMhU3nEpg4Lr5fD/view?usp=sharing"/>
+  <img width="100%" style="margin:0;padding:0" src="![Profile](https://user-images.githubusercontent.com/94268593/160225448-84bd45c8-8985-4e42-8b35-1dc08a277168.png)"/>
 </div>
 
